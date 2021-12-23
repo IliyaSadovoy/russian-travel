@@ -2,5 +2,6 @@
     background-color: #2A2C2F;
     font-family: 'Inter', serif;
     min-height: 100vh;
-    
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
