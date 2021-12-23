@@ -8,6 +8,7 @@
     text-align: center;
     z-index: 1;
     text-rendering: optimizeLegibility;
+    margin: 0;
 }
 @media  screen and (max-width: 425px) {
     .cover__title{
