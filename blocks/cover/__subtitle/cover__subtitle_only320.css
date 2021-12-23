@@ -1,9 +1,0 @@
-.only320{
-    display:none;
-  }
-  
-  @media  screen and (max-width: 425px) {
-  .only320{
-    display:inline;
-  }
-  }
