@@ -10,11 +10,11 @@
     text-rendering: optimizeLegibility;
     margin: 0;
 }
-@media  screen and (max-width: 425px) {
+@media  screen and (max-width: 730px) {
     .cover__title{
         font-size: 32px;
         line-height: 35px;
-        width: 288px;
+        max-width: 288px;
     }
     
 }
