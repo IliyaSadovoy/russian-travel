@@ -1,6 +1,6 @@
 .page {
     background-color: #2A2C2F;
-    font-family: 'Inter', serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     min-height: 100vh;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
